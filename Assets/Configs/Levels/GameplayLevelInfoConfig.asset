@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b263e608b45d73842acdff1cc764cd85, type: 3}
+  m_Name: GameplayLevelInfoConfig
+  m_EditorClassIdentifier: Assembly-CSharp::GameplayLevelInfoConfig
+  _levels:
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 20
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 40
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 50
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 50
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 100
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 110
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 130
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 130
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Ancient Dust
+    _recommendedGearScore: 150
+  - _image: {fileID: 21300000, guid: e1bcd497126dac7428fa803569c5524f, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 150
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 160
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 160
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 170
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 170
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 190
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 200
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 200
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 210
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 210
+  - _image: {fileID: 21300000, guid: 93b2437763d75f346a56c374df7e510c, type: 3}
+    _title: Iron Kingdom
+    _recommendedGearScore: 220
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 240
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 240
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 250
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 260
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 270
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 280
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 280
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 280
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 290
+  - _image: {fileID: 21300000, guid: 5591bac846c927e4db00b0646278ae8e, type: 3}
+    _title: Modern Front
+    _recommendedGearScore: 290
+  - _image: {fileID: 21300000, guid: f7e1bae1a7d47c7468de0a0ee8aefbe4, type: 3}
+    _title: Starfall War
+    _recommendedGearScore: 300
+  - _image: {fileID: 21300000, guid: f7e1bae1a7d47c7468de0a0ee8aefbe4, type: 3}
+    _title: Starfall War
+    _recommendedGearScore: 300
+  - _image: {fileID: 21300000, guid: f7e1bae1a7d47c7468de0a0ee8aefbe4, type: 3}
+    _title: Starfall War
+    _recommendedGearScore: 310
+  - _image: {fileID: 21300000, guid: f7e1bae1a7d47c7468de0a0ee8aefbe4, type: 3}
+    _title: Starfall War
+    _recommendedGearScore: 330
+  - _image: {fileID: 21300000, guid: f7e1bae1a7d47c7468de0a0ee8aefbe4, type: 3}
+    _title: Starfall War
+    _recommendedGearScore: 350

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6ca6ecd28b71b746ba6a9d63298e484, type: 3}
+  m_Name: Body
+  m_EditorClassIdentifier: Assembly-CSharp::GearVisualsConfig
+  _itemId: 
+  _slotType: 0
+  _entries:
+  - _rarity: 0
+    _displayName: Body
+    _description: common
+    _icon: {fileID: 21300000, guid: 9ff21d4e798571843acd14dc5ddea77c, type: 3}
+    _prefab: {fileID: 0}
+    _backgroundSprite: {fileID: 21300000, guid: 8ee9f80a39ee78749ad5520996e9434d, type: 3}
+  - _rarity: 1
+    _displayName: Body
+    _description: uncommon
+    _icon: {fileID: 21300000, guid: 01019238fc7b69e4ab7397fcff29bc62, type: 3}
+    _prefab: {fileID: 0}
+    _backgroundSprite: {fileID: 21300000, guid: 7f5e86d869543a541a2be1094f7c165d, type: 3}
+  - _rarity: 2
+    _displayName: 
+    _description: rare
+    _icon: {fileID: 21300000, guid: 207058c9d8d3be54b8b18cd8af92abc1, type: 3}
+    _prefab: {fileID: 0}
+    _backgroundSprite: {fileID: 21300000, guid: b25ff71d4410d8445ba7c0c9a91513a1, type: 3}
+  - _rarity: 3
+    _displayName: Body
+    _description: epic
+    _icon: {fileID: 21300000, guid: 0d3e781f1d14eda4cbfbc087620fe466, type: 3}
+    _prefab: {fileID: 0}
+    _backgroundSprite: {fileID: 21300000, guid: 4f7e928ceac819045895f0299f406c51, type: 3}

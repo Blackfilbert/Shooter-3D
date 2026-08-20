@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7fa0a507fe3baf46a9cb5651e56dc16, type: 3}
+  m_Name: ProfileProgressConfig
+  m_EditorClassIdentifier: Assembly-CSharp::ProfileProgressConfig
+  _maxLevel: 10
+  _rewards:
+  - _level: 2
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}
+  - _level: 4
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}
+  - _level: 6
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}
+  - _level: 8
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}
+  - _level: 10
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}
+  - _level: 12
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}
+  - _level: 14
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}
+  - _level: 16
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}
+  - _level: 18
+    _title: Uncommon Pack
+    _icon: {fileID: 21300000, guid: 144befbe0cebccc47b02d33616262dc0, type: 3}

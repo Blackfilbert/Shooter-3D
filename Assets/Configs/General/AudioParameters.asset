@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bc6725a3b6d2ab4dbd85bd98145e9ee, type: 3}
+  m_Name: AudioParameters
+  m_EditorClassIdentifier: Assembly-CSharp::AudioParameters
+  _sounds:
+  - _sfxType: 0
+    _clip: {fileID: 8300000, guid: c13072d716b571e4898e0b4d5357eed3, type: 3}
+  - _sfxType: 1
+    _clip: {fileID: 8300000, guid: c13072d716b571e4898e0b4d5357eed3, type: 3}
+  - _sfxType: 2
+    _clip: {fileID: 8300000, guid: 17bdd107f51129f46891503b53a984bd, type: 3}
+  - _sfxType: 3
+    _clip: {fileID: 8300000, guid: 60d47d8b23084074fa07f892f8e0bc9d, type: 3}
+  - _sfxType: 4
+    _clip: {fileID: 8300000, guid: 11fc0e6ab2337e6459c5c74242bc31c8, type: 3}
+  - _sfxType: 5
+    _clip: {fileID: 8300000, guid: abfa4a91a48d3414b8855e208df79772, type: 3}
+  - _sfxType: 6
+    _clip: {fileID: 8300000, guid: 356c7affc55c72740889d009cae29f56, type: 3}
+  _music:
+  - _musicType: 0
+    _clip: {fileID: 8300000, guid: ef01fabfd8d7e51458a17225920aac1d, type: 3}
+  - _musicType: 1
+    _clip: {fileID: 8300000, guid: d50ee712cc5717f4eb1a84aa17bbff36, type: 3}
